@@ -1,0 +1,11 @@
+.Input{
+    padding: 0 10px;
+    height: 30px;
+    border: inherit;
+    outline: none;
+    color: #ffffff;
+    position: relative;
+    width: 260px;
+    border-radius: 50px;
+    background: rgba(41, 161, 156, 1);
+}

@@ -1,0 +1,31 @@
+.Todolist{
+    position: relative;
+    top: 10px;
+    background: #35404c;
+    background-size: cover;
+    max-width: 400px;
+    border-radius: 50px;
+    width: 100%;
+    min-height: 300px;
+    margin: 0 auto;
+}
+.TodoStatus{
+    border-radius: 50px;
+    position: absolute;
+    bottom: 0;
+    border: 1px  solid;
+    display: flex;
+    justify-content: space-between;
+    background: rgba(41, 161, 156, 1);
+    width: 400px;
+}
+
+.TodoStatus>p{
+    color:#ffffff;
+    padding: 0  25px;
+}
+
+.Opacity{
+    visibility: hidden;
+    padding: 20px;
+}

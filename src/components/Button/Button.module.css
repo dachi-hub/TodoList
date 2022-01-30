@@ -1,0 +1,18 @@
+button{
+    border: inherit;
+    color: #ffffff;
+    background: #ffffff;
+    border-radius: 50px;
+    background: rgba(41, 161, 156, 1);
+}
+
+button:hover{
+    background: #2EE59D;
+    box-shadow: 0 15px 20px rgba(46, 229, 157, .4);
+    color: white;
+}
+
+button:hover:nth-child(3){
+    background: #c75656;
+    box-shadow: 0 15px 20px rgba(231, 0, 0, 0.4);
+}
